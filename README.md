@@ -42,7 +42,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 <p align="left"> <a href="https://twitter.com/nevviill" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
 <p align="center">I'm a Data Science Freelancer from India.
-I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
+I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovely Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
 
 - 🔭 I’m currently working at [upwork](upwork.com)
