@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <p align='center'>
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/nevviill"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nevilsutaria"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-
+-->
 <h2 align="center">Hello there! My name is Nevil Sutaria.</h2>
 <p align="center">I'm a Data Science Freelancer from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
@@ -68,7 +68,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 <a href="https://fb.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aman.2457" height="30" width="40" /></a>
 <a href="https://instagram.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imaman_17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amamverma2457" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="amanverma2457" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="nevilsutaria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
