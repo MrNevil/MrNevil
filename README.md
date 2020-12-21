@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-
-
+<!--
 <p align='center'>
 <a href="https://twitter.com/nevviill"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/nevviill"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nevilsutaria"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 -->
+
+
 <h2 align="center">Hello there! My name is Nevil Sutaria.</h2>
 <p align="center">I'm a Data Science Freelancer from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
@@ -43,7 +45,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
 
-- 🔭 I’m currently working on [upwork](upwork.com)
+- 🔭 I’m currently working at [upwork](upwork.com)
 
 - 🌱 I’m currently learning **Data Science Django , Statistics**
 
