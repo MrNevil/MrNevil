@@ -29,15 +29,15 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 </p>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
--->
+
 <h1 align="center">Hi <img height="35" src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif'></img>, I'm Nevil</h1>
 <h3 align="center">A passionate Data Science Freelancer from India</h3>
-
+https://camo.githubusercontent.com/b574cee0df6169fffac58de7e03cefdc923cf2251c1d7d93d114a6add762fc58/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrNevil&label=Profile%20views&color=0e75b6&style=flat" alt="MrNevil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNevil7" alt="MrNevil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imaman_17" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nevviill" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
 <p align="center">I'm a Data Science Freelancer from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
