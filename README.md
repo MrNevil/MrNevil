@@ -37,7 +37,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNevil7" alt="MrNevil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imaman_17" target="blank"><img src="https://img.shields.io/twitter/follow/imaman_17?logo=twitter&style=for-the-badge" alt="imaman_17" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imaman_17" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
 <p align="center">I'm a Data Science Freelancer from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
