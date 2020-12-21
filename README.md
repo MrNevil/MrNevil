@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nevil.
+<!--### Hi there 👋, I'm Nevil.-->
 
 <!--
 **MrNevil/MrNevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!--
+
 <h2 align="center">Hello there! My name is Nevil Sutaria.</h2>
 <p align="center">I'm a Data Science Freelancer from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
@@ -32,9 +32,8 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
 <h1 align="center">Hi <img height="35" src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif'></img>, I'm Nevil</h1>
 <h3 align="center">A passionate Data Science Freelancer from India</h3>
--->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrNevil&label=Profile%20views&color=0e75b6&style=flat" alt="MrNevil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MrNevil&label=Profile%20views&color=0e75b6&style=flat" alt="MrNevil" /> </p>
 <br>
 <!--![Visitor Count](https://profile-counter.glitch.me/mrnevil/count.svg)
 -->
