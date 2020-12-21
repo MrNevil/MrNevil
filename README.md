@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
+<!--
 <h2 align="center">Hello there! My name is Nevil Sutaria.</h2>
 <p align="center">I'm a Data Science Freelancer from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovly Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.
 </p>
-
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
-
 <h1 align="center">Hi <img height="35" src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif'></img>, I'm Nevil</h1>
 <h3 align="center">A passionate Data Science Freelancer from India</h3>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrNevil&label=Profile%20views&color=0e75b6&style=flat" alt="MrNevil" /> </p>
-![Visitor Count](https://profile-counter.glitch.me/mrnevil/count.svg)
-
+<br>
+<!--![Visitor Count](https://profile-counter.glitch.me/mrnevil/count.svg)
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNevil" alt="MrNevil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nevviill" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
