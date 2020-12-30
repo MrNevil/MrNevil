@@ -64,13 +64,13 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imaman_17" height="30" width="40" /></a>
+<a href="https://twitter.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nevviill" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nevilsutaria" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/MrNevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MrNevil" height="30" width="40" /></a>
-<a href="https://kaggle.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Nevil" height="30" width="40" /></a>
-<a href="https://fb.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aman.2457" height="30" width="40" /></a>
-<a href="https://instagram.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imaman_17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amamverma2457" height="30" width="40" /></a>
+<a href="https://kaggle.com/MrNevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="MrNevil" height="30" width="40" /></a>
+<a href="https://fb.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nevviill" height="30" width="40" /></a>
+<a href="https://instagram.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nevviill" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nevilsutaria" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="nevilsutaria" height="30" width="40" /></a>
 </p>
 
