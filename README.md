@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hello there! My name is Nevil.</h2>
 <p align="center">I'm a Data Science Enthusiast from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovely Professional University, India.
-I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.
+I am currently passionate about Data Analysis, Data Visualization, Predictive Modeling, Cloud Computing and Deployment.
 </p>
 <!--<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
 <h1 align="center">Hi <img height="35" src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif'></img>, I'm Nevil</h1>
@@ -46,7 +46,7 @@ I'm pursuing my Bachelor of Technology in Computer Science Engineering from Love
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
 -->
 
-- 🔭 I’m currently working at [upwork](upwork.com)
+<!-- 🔭 I’m currently working at [upwork](upwork.com)
 
 - 🌱 I’m currently learning **Data Science Django , Statistics**
 
@@ -58,7 +58,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 - 📝 I regulary write articles on [medium.com](medium.herokuapp.com)
 
-- 💬 Ask me about **Django , Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **nevilsutaria@gmail.com**
 
