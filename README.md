@@ -56,7 +56,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 - 👨‍💻 All of my projects are available at [www.github.com/MrNevil](www.github.com/MrNevil)
 
-- 📝 I regulary write articles on [medium.com](medium.herokuapp.com)
+- 📝 I regulary write articles on [medium.com](nevilsutaria.medium.com)
 
 - 💬 Ask me about **Python**
 
