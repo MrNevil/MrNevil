@@ -41,7 +41,7 @@ I am currently passionate about Data Analysis, Data Visualization, Predictive Mo
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNevil" alt="MrNevil" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/nevviill" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
-<!--<p align="center">I'm a Data Science Freelancer from India.
+<!--<p align="center">I'm a Data Science Practitioner from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovely Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
 -->
@@ -80,4 +80,5 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNevil&layout=compact" alt="MrNevil" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MrNevil&show_icons=true" alt="MrNevil" /></p>
+
 
