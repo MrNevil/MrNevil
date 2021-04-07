@@ -48,7 +48,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 <!-- 🔭 I’m currently working at [upwork](upwork.com)
 
-- 🌱 I’m currently learning **Data Science Django , Statistics**
+- 🌱 I’m currently learning **Data Science, Django , Statistics**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
