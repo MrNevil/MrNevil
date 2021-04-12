@@ -80,7 +80,5 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNevil&layout=compact" alt="MrNevil"/></p>
 
-<p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrNevil&show_icons=true" alt="MrNevil" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MrNevil&show_icons=true" alt="MrNevil" /></p>
 
