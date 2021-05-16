@@ -1,5 +1,5 @@
 <!--### Hi there 👋, I'm Nevil.-->
- 
+
 <!-- 
 **MrNevil/MrNevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/nevilsutaria"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 -->
-
 
 <h2 align="center">Hello there! My name is Nevil.</h2> 
 <p align="center">I'm a Data Science Enthusiast from India.
