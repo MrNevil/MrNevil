@@ -40,7 +40,7 @@ I am currently passionate about Data Analysis, Data Visualization, Predictive Mo
 -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNevil" alt="MrNevil" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/nevviill" target="blank"><img src="https://img.shields.io/twitter/follow/nevviill?logo=twitter&style=for-the-badge" alt="nevviill" /></a> </p>
+<p align="center"> <a href="https://twitter.com/nevilsutaria" target="blank"><img src="https://img.shields.io/twitter/follow/nevilsutaria?logo=twitter&style=for-the-badge" alt="nevilsutaria" /></a> </p>
 <!--<p align="center">I'm a Data Science Practitioner from India.
 I'm pursuing my Bachelor of Technology in Computer Science Engineering from Lovely Professional University, India.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.</p>
@@ -64,7 +64,7 @@ I currently passionate about Data Analysis,Data Analytics,Data Visualization , P
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/nevviill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nevviill" height="30" width="40" /></a>
+<a href="https://twitter.com/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nevilsutaria" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nevilsutaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nevilsutaria" height="30" width="40" /></a>
 <a href="https://stackexchange.com/users/20331239/nevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Nevil" height="30" width="40" /></a>
 <a href="https://kaggle.com/MrNevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="MrNevil" height="30" width="40" /></a>
